@@ -1,0 +1,14 @@
+/.idea/*
+.buildpath
+.project
+.settings/*
+/.git/*
+
+*Thumbs.db*
+
+/index-debug.html
+
+*.orig
+db-change.md
+
+update.zip
